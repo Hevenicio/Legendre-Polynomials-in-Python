@@ -14,4 +14,5 @@ Entre as diversas definições temo a definição por construção como um siste
 
   - Expansão de potencial de 1/r;
   - Expansões multipolares;
-  - [x] Em trigonometria;
+  - [x] Trigonometria;
+ - Redes neurais recorrentes;
