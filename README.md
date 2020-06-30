@@ -12,4 +12,6 @@ Entre as diversas definições temo a definição por construção como um siste
 
 ## Aplicações
 
-  - Expanção potencial de 1/r 
+  - Expansão de potencial de 1/r;
+  - Expansões multipolares;
+  - [x] Em trigonometria;
