@@ -12,7 +12,7 @@ Entre as diversas definições temo a definição por construção como um siste
 
 ## Aplicações
 
-  - Expansão de potencial de 1/r;
-  - Expansões multipolares;
-  - [x] Trigonometria;
- - Redes neurais recorrentes;
+ - Expansão de potencial de 1/r;
+ - Expansões multipolares;
+ - Trigonometria;
+   - Redes neurais recorrentes;
