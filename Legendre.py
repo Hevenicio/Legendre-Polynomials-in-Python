@@ -34,13 +34,15 @@ P = np.zeros((len(df['x']),len(c))) #array com os valores de P_n(x)
 #Realizando o cálculo e o plot
 for n in c:
     for i in np.arange(len(df['x'])):
-    	P[i, n] = legendre(df['x'][i], n)
-    	x[i, n] = df['x'][i]
+        P[i, n] = legendre(df['x'][i], n)
+        x[i, n] = df['x'][i]
     plt.grid(color = 'green')
-    plt.xlabel('$x$')
-    plt.ylabel('$y$')
-    plt.plot(x[:, n], P[:, n], '-', label = '$P_{}(x)$'.format(n))
-
-plt.suptitle('Polinômios de Legendre')
-plt.legend(fancybox = True, shadow = True)
+    plt.xlabel('$x$', fontsize = 17)
+    plt.xticks(fontsize = 15)
+    plt.yticks(fontsize = 15)
+    plt.ylabel('$P_{n}(x)$', fontsize = 17)
+    plt.plot(x[:, n], P[:, n],'-', label = '$P_{}(x)$'.format(n))
+    
+plt.title('Polinômios de Legendre', fontsize = 25)
+plt.legend(fancybox = True, shadow = True, fontsize = 15)
 plt.show()
