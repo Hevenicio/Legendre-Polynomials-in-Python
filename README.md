@@ -19,5 +19,4 @@ Entre as diversas definições temo a definição por construção como um siste
  - Mecânica Quântica.
  
 
-
-- [x] A referecia pra o texto foi construido usando [1](https://www.amazon.com/exec/obidos/ASIN/0486612724/ref=nosim/ericstreasuretro), [2](https://encyclopediaofmath.org/wiki/Legendre_polynomials), [3](https://en.wikipedia.org/wiki/Legendre_polynomials) e [4](http://hyperphysics.phy-astr.gsu.edu/hbase/Math/legend.html).
+**A referecia pra o texto foi construido usando [1](https://www.amazon.com/exec/obidos/ASIN/0486612724/ref=nosim/ericstreasuretro), [2](https://encyclopediaofmath.org/wiki/Legendre_polynomials), [3](https://en.wikipedia.org/wiki/Legendre_polynomials) e [4](http://hyperphysics.phy-astr.gsu.edu/hbase/Math/legend.html).**
