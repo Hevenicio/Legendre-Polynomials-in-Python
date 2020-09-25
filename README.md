@@ -1,5 +1,7 @@
 # Polinômios de Legendre em Python
 
+<img src="https://user-images.githubusercontent.com/65929471/94320070-6a172100-ff62-11ea-978d-01c73e2d8389.png"  width="700">
+
 ## Descrição do Projeto
 
 Este é um projeto de Métodos Computacionais em Física que se baseia em solucionar os polinômios de Legendre usando a linguagem Python.
